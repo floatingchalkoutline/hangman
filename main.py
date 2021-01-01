@@ -11,7 +11,6 @@ guess_list = []
 
 #TODO-1: - Print the logo
 print(hangman.LOGO)
-print(answer)
 
 play_game = True
 
